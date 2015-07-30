@@ -1,0 +1,5 @@
+-An empty repository is created, you need to do it to keep track of your work to be able to fix bugs and save your progress step by step.
+
+-The working stage is different from the staging area because only its contents will be added to the next commit and it's different from the repository because when files are in the working stage they're not yet in the repository until they're committed.
+
+-By comparing the files in staging area the latest commit in the repository. 
