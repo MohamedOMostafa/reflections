@@ -1,0 +1,24 @@
+-It helped me find my typos easily and get a fast overview of the changes I made to the file.
+
+-With bigger blocks of codes or bigger programmes it's better to have history versions of your
+programme for revision and debugging.
+
+-Pros:
+1-Your save points would be meaningful because you know when you have added features or fixed
+bugs.
+2-You work at your own pace and the pattern that suits you the most.
+
+-Cons:
+1-You're subject to human error when you forget to save.
+2-If the power goes off you might have a more recent save point with the auto saving.
+
+-Because when it comes to code files they're usually related, so changes in one file in most
+cases affect changes in the other files, while in the other cases changes in one files doesn't
+necessarily affect the other files.
+
+-By using git log command you get to see all the commits of your file and by using git
+diff you get to see what changes were made in that commit in comparison to the one 
+before.
+
+-Because you can always go back to a commit where your programme was working fine
+and figure our what went wrong and at what point.
